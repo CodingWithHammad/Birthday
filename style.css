@@ -24,31 +24,3 @@
 }
 
 
-
-.text-center{
-    text-align: center;
-    position: relative;
-    margin-right: 100px;
-}
-
-.bd-red{
-    background: rgb(56, 215, 28);
-}
-.mx-auto{
-    margin: auto;
-}
-
-.m-w-20{
-    max-width: 30vw;
-}
-
-.flex{
-    display: flex;
-}
-
-.flex-col{
-    flex-direction: column;
-}
-.items-center{
-    align-items: center;
-}
